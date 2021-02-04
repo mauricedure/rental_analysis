@@ -1,2 +1,2 @@
 # rental_analysis
-pyviz for rentalanalysis 
+pyviz for rental analysis 
