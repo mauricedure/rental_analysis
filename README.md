@@ -1,4 +1,4 @@
-# rental_analysis
+# Rental Analysis Tools
 The credit union board wants to allow the union's members to assess their monthly personal finances, and also be able to forecast a reasonably good retirement plan based on cryptocurrencies, stocks, and bonds.
 
 Focused on using APIs as part of the technical solution - to create two financial analysis tools.
